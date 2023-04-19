@@ -57,9 +57,9 @@
             // ExitButton
             // 
             this.ExitButton.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.ExitButton.Location = new System.Drawing.Point(148, 487);
+            this.ExitButton.Location = new System.Drawing.Point(284, 487);
             this.ExitButton.Name = "ExitButton";
-            this.ExitButton.Size = new System.Drawing.Size(130, 43);
+            this.ExitButton.Size = new System.Drawing.Size(75, 43);
             this.ExitButton.TabIndex = 1;
             this.ExitButton.Text = "Exit";
             this.ExitButton.UseVisualStyleBackColor = true;
@@ -143,9 +143,9 @@
             // 
             // Sort
             // 
-            this.Sort.Location = new System.Drawing.Point(284, 487);
+            this.Sort.Location = new System.Drawing.Point(148, 487);
             this.Sort.Name = "Sort";
-            this.Sort.Size = new System.Drawing.Size(75, 43);
+            this.Sort.Size = new System.Drawing.Size(130, 43);
             this.Sort.TabIndex = 9;
             this.Sort.Text = "Sort";
             this.Sort.UseVisualStyleBackColor = true;
